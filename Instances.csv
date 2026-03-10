@@ -1,0 +1,11 @@
+instance_id,task_instance,crane_count,init_rule
+Ins01,task_01,2,segment_random
+Ins02,task_01,3,segment_random
+Ins03,task_01,4,segment_random
+Ins04,task_02,2,segment_random
+Ins05,task_02,3,segment_random
+Ins06,task_02,4,segment_random
+...
+Ins34,task_12,2,segment_random
+Ins35,task_12,3,segment_random
+Ins36,task_12,4,segment_random
